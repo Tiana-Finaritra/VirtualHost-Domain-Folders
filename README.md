@@ -3,6 +3,7 @@
 </p>
 
  # <p align="center">VIRTUALHOST | DOMAIN | FOLDERS</p>
+
 <p align="center">
 An Ansible project to create five virtualhost folders for easy management of domain configurations. Out-of-the-box structure
 to host multiple websites on a single server using virtualhost. Automate configuration with Ansible to 
