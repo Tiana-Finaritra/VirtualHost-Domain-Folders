@@ -1,15 +1,23 @@
-# VirtualHost-Domain-Folders
+<p style="text-align:center;
+        color: rgb(42, 131, 89);
+        font-size: 20px;">VIRTUALHOST | DOMAIN | FOLDERS
+</p>
 
-![Ansible-gif](images/ansible.gif)
-
-<br> 
-<br> 
-
-An Ansible project to create five virtualhost folders for easy management of domain configurations. Out-of-the-box structure <br> 
+<p align="center">
+  <img src="images/ansible.gif" alt="Texte alternatif">
+</p>
+<p align="center">
+An Ansible project to create five virtualhost folders for easy management of domain configurations. Out-of-the-box structure
 to host multiple websites on a single server using virtualhost. Automate configuration with Ansible to 
-simplify deployment <br> 
+simplify deployment 
 and maintenance.
 
+</p>
+
+<div style="background-color:  rgba(11, 252, 172, 0.137);
+            padding-inline:20vw;
+            padding-bottom: 20px;">
+<br> 
 
 ## Features
 
@@ -23,6 +31,7 @@ and maintenance.
 
 - Web server (Apache, Nginx, etc.) installed and configured.
 - Ansible installed on your system (if you want to automate the configuration).
+- install and configure the ssh server
 
 
 ## Use
@@ -40,3 +49,4 @@ Tiana Finaritra (hei.finaritra.3@gmail.com)
 
 ### License
 C 🎈 Tiana-Finaritra |R  
+</div>
